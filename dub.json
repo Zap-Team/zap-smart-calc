@@ -1,0 +1,14 @@
+{
+    "authors": [
+        "Dallas",
+        "Apach876"
+    ],
+    "copyright": "Copyright 2022 Dallas, Apach876",
+    "description": "A modern smart calculator for Russian Educational Organizations.",
+    "license": "Apache-2.0",
+    "name": "zap-smart-calc",
+    "dependencies": {
+        "dlangui": "~>0.10.0",
+        "simple-math": "~>1.1.0"
+    }
+}

@@ -1,0 +1,20 @@
+# Folders:
+.dub
+docs.json
+__dummy.html
+docs/
+/zap-smart-calc
+
+# Files:
+zap-smart-calc.so
+zap-smart-calc.dylib
+zap-smart-calc.dll
+zap-smart-calc.a
+zap-smart-calc.lib
+zap-smart-calc-test-*
+
+# File extensions:
+*.exe
+*.o
+*.obj
+*.lst
